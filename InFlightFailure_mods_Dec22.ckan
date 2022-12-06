@@ -1,0 +1,292 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "installed-Kerbal-Space-Program",
+    "name": "installed-Kerbal Space Program",
+    "abstract": "A list of modules installed on the Kerbal Space Program KSP instance",
+    "author": [
+        "Nick"
+    ],
+    "version": "2022.12.06.12.35.09",
+    "ksp_version_min": "1.11",
+    "ksp_version_max": "1.12",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "AnimatedDecouplers"
+        },
+        {
+            "name": "Astrogator"
+        },
+        {
+            "name": "AstronomersVisualPack"
+        },
+        {
+            "name": "AVP-8kTextures"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "BetterBurnTime"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "CommunityPartsTitles"
+        },
+        {
+            "name": "CommunityPartsTitlesExtrasCategory"
+        },
+        {
+            "name": "CommunityPartsTitlesExtrasNoCCKDup"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "CommunityTechTree"
+        },
+        {
+            "name": "CommunityTerrainTexturePack"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ContractConfigurator-ExplorationPlus"
+        },
+        {
+            "name": "ContractConfigurator-FieldResearch"
+        },
+        {
+            "name": "ContractConfigurator-KerbinSpaceStation"
+        },
+        {
+            "name": "ContractConfigurator-Tourism"
+        },
+        {
+            "name": "CryoEngines"
+        },
+        {
+            "name": "CryoEngines-NFAero"
+        },
+        {
+            "name": "CryoTanks"
+        },
+        {
+            "name": "CryoTanks-Core"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "DockingPortSoundFX"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "GravityTurnContinued"
+        },
+        {
+            "name": "HangerExtenderExtended"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "HeapPadder"
+        },
+        {
+            "name": "HeatControl"
+        },
+        {
+            "name": "HideEmptyTechNodes"
+        },
+        {
+            "name": "ImprovedTreeEnginePlacement"
+        },
+        {
+            "name": "IndicatorLights"
+        },
+        {
+            "name": "IndicatorLightsCommunityExtensions"
+        },
+        {
+            "name": "Kaboom"
+        },
+        {
+            "name": "KabramsSunFlaresPack-Blue-High"
+        },
+        {
+            "name": "KerbalActuators"
+        },
+        {
+            "name": "KerbalAtomics"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "KerbalJointReinforcementContinued"
+        },
+        {
+            "name": "KerBalloons"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "KSPBurst"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "MagpieMods"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NearFutureAeronautics"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
+        },
+        {
+            "name": "NearFutureExploration"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "NearFuturePropulsion"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "NearFutureSpacecraft"
+        },
+        {
+            "name": "OPTReconfig"
+        },
+        {
+            "name": "OPTSpacePlaneMain"
+        },
+        {
+            "name": "OuterPlanetsMod"
+        },
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "Parallax-OuterPlanetsMod"
+        },
+        {
+            "name": "Parallax-StockScatterTextures"
+        },
+        {
+            "name": "Parallax-StockTextures"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "PlanetShine-Config-Default"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "RestockRigidLegs"
+        },
+        {
+            "name": "RocketSoundEnhancement"
+        },
+        {
+            "name": "RocketSoundEnhancement-Config-Default"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "SpaceDust"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "SpaceXLegs"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "StationPartsExpansionRedux-IVAs"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "TUFX"
+        },
+        {
+            "name": "Waterfall"
+        },
+        {
+            "name": "WaterfallRestock"
+        },
+        {
+            "name": "ZeroMiniAVC"
+        }
+    ],
+    "release_date": "2022-12-05T17:35:09.7156839-07:00",
+    "kind": "metapackage"
+}
